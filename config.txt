@@ -1,3 +1,3 @@
-AC3e0484cf1bcbaeb73f7cea2232e6d5d8
-045d16497a712cd9d7b91e6d25e1ee0e
-15713932095
+account_sid
+auth_tokem
+1+twilionumber
