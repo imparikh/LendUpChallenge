@@ -10,7 +10,7 @@ Want to replay it? No problem! Hit replay on whatever row you want.
 I apologize for the table already having some rows filled in; this was necessary for testing purposes.
 
 To load up your own Twilio credentials, first clone the repo with
-'''
+```
 git clone https://github.com/imparikh/LendUpChallenge
-'''
+```
 Edit the config.txt file so that the first line is the account id, the second the authentication token, and the last one the Twilio number with the 1 (like 19084567890).
